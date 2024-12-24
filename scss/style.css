@@ -107,7 +107,7 @@ body {
   border-radius: 7px;
   background: var(--cyan-color);
 }
-.perfume-container .perfume-info-button p {
+.perfume-container .perfume-info-button span {
   font-family: var(--font-montserrat);
   font-size: 14px;
   font-weight: bold;
